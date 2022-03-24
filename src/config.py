@@ -15,7 +15,7 @@ DATA_PARAMS = {
 }
 
 GA_PARAMS = {
-    'n_searches': 5,
+    'n_searches': 25,
     'pop_size': 250,
     'max_iter': 10,
     'weights': (1.0, -1.0),
