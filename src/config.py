@@ -1,7 +1,7 @@
 from tasks import cancer, vaginal, cirrhosis
 
 DATA_PARAMS = {
-    'path': r'/Users/mleske/Documents/dev/microbiome-git',
+    'path': r'/path/to/folder',
 
     #'task': cancer['kostic_healthy_tumor_gg_otu'],
     'task': vaginal['ravel_nugent_category_refseq_otu'],
