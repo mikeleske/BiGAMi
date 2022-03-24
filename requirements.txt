@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+plotly
+pypiwin32
+nodejs
+scikit-learn
+scikit-bio
+deap
